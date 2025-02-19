@@ -252,28 +252,9 @@ body{
 .topbar .searchbar input:hover{
     border-color: blue;
 }
-.topbar .lng{
-    height: 40px;
-    width: 110px;
-    background: transparent;
-    margin-top: 20px;
-    border: solid 1px;
-    border-color: #292524;
-    border-radius: 5px;
-    
 
-}
-.topbar .lng button{
-    height: 20px;
-    width: 60px;
-    margin: 10px 10px;
-    background-color: transparent;
-    color: #fff;
-    border: 0;
-    font-size: 14px;
-    
-    
-}
+ 
+
 .topbar .lng i{
     color: #acabab;
     font-size: 14px;
