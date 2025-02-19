@@ -254,11 +254,17 @@ body{
 }
 
  
+#lang{
+    height: 40px;
+    width: 110px;
+    color: #fff;
+    background-color: #000  ;
+    border: 1px solid #282828;
+    outline: none;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
 
-.topbar .lng i{
-    color: #acabab;
-    font-size: 14px;
-   
 }
 .topbar .community {
     width: 230px;
